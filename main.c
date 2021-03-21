@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[]) 
 {
-	printf("Salve, mondo.");
+	printf("Salve, mondo \n");
+	printf("su due righe.");
 	return 0;
 }
